@@ -1,0 +1,15 @@
+{
+  "name": "foobotimagecompressor",
+  "version": "1.0.0",
+  "description": "image compressor for foobot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "redfoo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
